@@ -1,0 +1,4 @@
+MagicBall.MainActivity, MagicBall;md53c038dca36af557e3b42ac80f2bb207b.MainActivity
+MagicBall.MainActivity, MagicBall, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c038dca36af557e3b42ac80f2bb207b.MainActivity
+MagicBall.MainActivity;md53c038dca36af557e3b42ac80f2bb207b.MainActivity
+magicball.MainActivity;md53c038dca36af557e3b42ac80f2bb207b.MainActivity
